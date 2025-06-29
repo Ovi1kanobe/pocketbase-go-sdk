@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/pluja/pocketbase/migrations"
+	"github.com/Ovi1kanobe/pocketbase-go-sdk/migrations"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
